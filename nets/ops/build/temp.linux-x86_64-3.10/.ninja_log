@@ -1,0 +1,4 @@
+# ninja log v5
+0	5151	1750144946419269300	/root/autodl-tmp/BEVCar/nets/ops/build/temp.linux-x86_64-3.10/root/autodl-tmp/BEVCar/nets/ops/src/cpu/ms_deform_attn_cpu.o	43e1dbc5c5d32296
+0	14224	1750144955487068231	/root/autodl-tmp/BEVCar/nets/ops/build/temp.linux-x86_64-3.10/root/autodl-tmp/BEVCar/nets/ops/src/vision.o	8999d9db9ab5bb40
+0	33616	1750144974890638528	/root/autodl-tmp/BEVCar/nets/ops/build/temp.linux-x86_64-3.10/root/autodl-tmp/BEVCar/nets/ops/src/cuda/ms_deform_attn_cuda.o	61580ec42d0410a2
